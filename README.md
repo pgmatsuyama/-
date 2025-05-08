@@ -26,4 +26,9 @@
 📝 詳細は近日公開予定。GitHubのWatch登録で通知を受け取れます！
 
 - [びわ湖とびわっちの冒険](../pgmatsuyama-jpg/びわ湖とびわっちの冒険.jpg)
+- [ビワッチとゴンドラちゃんの朝](../pgmatsuyama-jpg/ビワッチとゴンドラちゃんの朝.jpg)
+- [雲とゴンドラのひより](../pgmatsuyama-jpg/雲とゴンドラのひより.jpg)
+- [エネルギー補充の冒険](../pgmatsuyama-jpg/エネルギー補充の冒険.jpg)
+- [ゴンドラちゃんと闇の一団](../pgmatsuyama-jpg/ゴンドラちゃんと闇の一団.jpg)
+- [電池先生の授業](../pgmatsuyama-jpg/電池先生の授業.jpg)
 - # -
